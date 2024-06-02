@@ -1,7 +1,7 @@
 1. Definire le classi Movie e Genere:
 - [x] creare un file separato per ciascuna classe
 - [x] dichiarare gli attributi utilizzando il type hinting
-- [] utilizzare metodi getter e setter per accedere alle proprietà
+- [x] utilizzare metodi getter e setter per accedere alle proprietà
 
 2. Istanziare gli oggetti:
 - [x] creare almeno due oggetti della classe Movie, ciascuno con un genere
